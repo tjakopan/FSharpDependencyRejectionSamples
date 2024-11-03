@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BookingApi", "BookingApi\BookingApi.fsproj", "{7BD7309D-10A8-420D-89C6-34A0684E5DBF}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BookingApi", "BookingApi\BookingApi.fsproj", "{D96681F5-3498-4509-BEEC-BB1CB3741B72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7BD7309D-10A8-420D-89C6-34A0684E5DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7BD7309D-10A8-420D-89C6-34A0684E5DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7BD7309D-10A8-420D-89C6-34A0684E5DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7BD7309D-10A8-420D-89C6-34A0684E5DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96681F5-3498-4509-BEEC-BB1CB3741B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96681F5-3498-4509-BEEC-BB1CB3741B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96681F5-3498-4509-BEEC-BB1CB3741B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96681F5-3498-4509-BEEC-BB1CB3741B72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
